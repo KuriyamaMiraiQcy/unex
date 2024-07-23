@@ -1,1 +1,1 @@
-Run axboy/leanote:latest
+From axboy/leanote:latest
